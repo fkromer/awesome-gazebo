@@ -11,6 +11,7 @@
 - [Documentation](#documentation)
 - [Model databases](#model-databases)
 - [Physic engines](#physic-engines)
+- [Books](#books)
 - [Presentations](#presentations)
 
 ## Documentation
@@ -30,6 +31,33 @@
 * Dart [website](http://dartsim.github.io/) [GitHub](https://github.com/dartsim/dart)
 * ODE [website](http://www.ode.org/) [bitbucket](https://bitbucket.org/odedevs/ode)
 * SimBody [website](https://simtk.org/projects/simbody) [GitHub](https://github.com/simbody/simbody)
+
+## Books
+
+**No books existing yet.**
+
+However there are book chapters which address Gazebo.
+
+* **Learning Robotics using Python** 1st edition
+  * Chapter 3: Working with Robot Simulation Using ROS and Gazebo
+
+* **Learning ROS for Robotics Programming** 2nd edition
+  * Chapter 7. 3D Modeling and Simulation
+  * Chapter 8. The Navigation Stack - Robot Setups
+  * Chapter 10. Manipulation with MoveIt!
+
+* **Mastering ROS for Robotics Programming** 1st edition
+  * Chapter 3. Simulating Robots Using ROS and Gazebo
+  * Chapter 4. Using the ROS MoveIt! and Navigation Stack
+  * Chapter 5. Working with Pluginlib, Nodelets, and Gazebo Plugins
+  * Chapter 10. Exploring the Advanced Capabilities of ROS-MoveIt!
+
+* **ROS Robotics by Example** 1st edition
+  * Chapter 2, Creating Your First Two-Wheeled ROS Robot (in Simulation)
+  * Chapter 3. Driving Around with TurtleBot
+  * Chapter 5. Creating Your First Robot Arm (in Simulation)
+  * Chapter 6. Wobbling Robot Arms Using Joint Control
+  * Chapter 7. Making a Robot Fly
 
 ## Presentations
 
