@@ -38,21 +38,21 @@
 
 However there are book chapters which address Gazebo.
 
-* **Learning Robotics using Python** 1st edition
+* **Learning Robotics using Python** 1st edition (ISBN13: 9781783287536) [website](https://www.packtpub.com/application-development/learning-robotics-using-python)
   * Chapter 3: Working with Robot Simulation Using ROS and Gazebo
 
-* **Learning ROS for Robotics Programming** 2nd edition
+* **Learning ROS for Robotics Programming** 2nd edition (ISBN13: 9781783987580) [website](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming-second-edition)
   * Chapter 7. 3D Modeling and Simulation
   * Chapter 8. The Navigation Stack - Robot Setups
   * Chapter 10. Manipulation with MoveIt!
 
-* **Mastering ROS for Robotics Programming** 1st edition
+* **Mastering ROS for Robotics Programming** 1st edition (ISBN13: 9781783551798) [website](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming)
   * Chapter 3. Simulating Robots Using ROS and Gazebo
   * Chapter 4. Using the ROS MoveIt! and Navigation Stack
   * Chapter 5. Working with Pluginlib, Nodelets, and Gazebo Plugins
   * Chapter 10. Exploring the Advanced Capabilities of ROS-MoveIt!
 
-* **ROS Robotics by Example** 1st edition
+* **ROS Robotics by Example** 1st edition (ISBN13: 9781782175193) [website](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
   * Chapter 2, Creating Your First Two-Wheeled ROS Robot (in Simulation)
   * Chapter 3. Driving Around with TurtleBot
   * Chapter 5. Creating Your First Robot Arm (in Simulation)
