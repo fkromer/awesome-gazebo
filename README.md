@@ -52,6 +52,16 @@ However there are book chapters which address Gazebo.
   * Chapter 5. Working with Pluginlib, Nodelets, and Gazebo Plugins
   * Chapter 10. Exploring the Advanced Capabilities of ROS-MoveIt!
 
+* **Programming Robots with ROS: A Practical Introduction to the Robot Operating System** 1st edition (ISBN13: 9781449323899) [website](http://shop.oreilly.com/product/0636920024736.do) [example code](https://github.com/osrf/rosbook)
+  * Chapter 6: Robots and Simulators
+  * Chapter 7: Wander-bot
+  * Chapter 8: Teleop-bot
+  * Chapter 11: Chess-bot
+  * Chapter 12: Follow-bot
+  * Chapter 14: Stockroom-bot
+  * Chapter 16: Your Own Mobile Robot
+  * Chapter 18: Your Own Robot Arm
+
 * **ROS Robotics by Example** 1st edition (ISBN13: 9781782175193) [website](https://www.packtpub.com/hardware-and-creative/ros-robotics-example)
   * Chapter 2, Creating Your First Two-Wheeled ROS Robot (in Simulation)
   * Chapter 3. Driving Around with TurtleBot
