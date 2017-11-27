@@ -9,6 +9,7 @@
 ## Contents
 
 - [Documentation](#documentation)
+- [Model databases](#model-databases)
 - [Physic engines](#physic-engines)
 - [Presentations](#presentations)
 
@@ -17,6 +18,11 @@
 * [Gazebo answers](answers.gazebosim.org) 
 * [Gazebo website](http://gazebosim.org)
 * [Gazebo cummunity](https://community.gazebosim.org/)
+
+## Model databases
+
+* [Gazebo model database](https://bitbucket.org/osrf/gazebo_models/src)
+* [Erle robotics Gazebo models](https://github.com/erlerobot/erle_gazebo_models)
 
 ## Physic engines
 
