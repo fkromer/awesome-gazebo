@@ -77,7 +77,7 @@ However there are book chapters which address Gazebo.
 
 * Simple benchmarks for speed and accuracy of rigid body 
 dynamic simulators [slides](https://www.osrfoundation.org/wordpress2/wp-content/uploads/2015/12/multibody2015_scpeters.pdf)
-* [Robot Model Development on Stereoids](https://roscon.ros.org/2015/presentations/roscon2015_phobos_von_szadkowski.pdf)
+* Robot Model Development on Stereoids [slides](https://roscon.ros.org/2015/presentations/roscon2015_phobos_von_szadkowski.pdf)
 
 ### ROSCon 2014
 
