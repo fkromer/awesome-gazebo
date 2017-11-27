@@ -2,6 +2,8 @@
 
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+[<img src="https://rawgit.com/fkromer/awesome-gazebo/master/gazebo_icon.svg" align="right" width="86">](http://gazebosim.org/)
+
 > Gazebo, the simulation framework for ROS1 and ROS2 is awesome! A curated list of awesome Gazebo resources and libraries
 
 ## Contents
