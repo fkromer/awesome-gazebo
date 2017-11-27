@@ -6,7 +6,15 @@
 
 ## Contents
 
+- [Physic engines](#physic-engines)
 - [Presentations](#presentations)
+
+## Physic engines
+
+* Bullet [website](bulletphysics.org) [GitHub](https://github.com/bulletphysics/bullet3)
+* Dart [website](http://dartsim.github.io/) [GitHub](https://github.com/dartsim/dart)
+* ODE [website](http://www.ode.org/) [bitbucket](https://bitbucket.org/odedevs/ode)
+* SimBody [website](https://simtk.org/projects/simbody) [GitHub](https://github.com/simbody/simbody)
 
 ## Presentations
 
