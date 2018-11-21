@@ -71,6 +71,13 @@ However there are book chapters which address Gazebo.
 
 ## Presentations
 
+### ROSCon 2018
+
+* Astrobee: ROS-based Flight Software for a Free-flying Robot in Microgravity [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_astrobee.pdf) [video](https://vimeo.com/292690863)
+* Gazebo renders the moon [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_gazeborendersmoon.pdf) [video](https://vimeo.com/292691510)
+* Unmanned Underwater Vehicle Simulator: Enabling the Simulation of Multi-Robot Underwater Missions with Gazebo [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_uuvsimulator.pdf) [video](https://vimeo.com/292691843)
+* Accelerated robot training through simulation with ROS and Gazebo [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_AcceleratedRobotTraining.pdf) [video](https://vimeo.com/293299416)
+
 ### ROSCon 2017
 
 * Vehicle and city simulation with Gazebo and ROS [slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20Vehicle%20and%20City%20Simulation.pdf) [video](https://vimeo.com/236477865)
