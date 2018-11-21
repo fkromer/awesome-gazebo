@@ -16,7 +16,7 @@
 
 ## Documentation
 
-* [Gazebo answers](answers.gazebosim.org) 
+* [Gazebo answers](answers.gazebosim.org)
 * [Gazebo website](http://gazebosim.org)
 * [Gazebo cummunity](https://community.gazebosim.org/)
 
@@ -69,6 +69,12 @@ However there are book chapters which address Gazebo.
   * Chapter 6. Wobbling Robot Arms Using Joint Control
   * Chapter 7. Making a Robot Fly
 
+## Tutorials
+
+* ROS 2 overview [link](http://gazebosim.org/tutorials?tut=ros2_overview&branch=ros2)
+* ROS 2 integration [link](https://github.com/ros-simulation/gazebo_ros_pkgs/wiki/ROS-2-integration)
+* Installing gazebo_ros_pkgs (ROS 2) [link](http://gazebosim.org/tutorials?tut=ros2_installing&branch=ros2)
+
 ## Presentations
 
 ### ROSCon 2017
@@ -85,11 +91,11 @@ However there are book chapters which address Gazebo.
 
 ### ROSCon 2015
 
-* Simple benchmarks for speed and accuracy of rigid body 
+* Simple benchmarks for speed and accuracy of rigid body
 dynamic simulators [slides](https://www.osrfoundation.org/wordpress2/wp-content/uploads/2015/12/multibody2015_scpeters.pdf)
 * Robot Model Development on Stereoids [slides](https://roscon.ros.org/2015/presentations/roscon2015_phobos_von_szadkowski.pdf)
 
 ### ROSCon 2014
 
-* Comparison of Rigid Body Dynamic Simulators 
+* Comparison of Rigid Body Dynamic Simulators
 for Robotic Simulation in Gazebo [slides](https://roscon.ros.org/2014/wp-content/uploads/2014/07/roscon2014_scpeters.pdf) [video](https://vimeo.com/107517366)
