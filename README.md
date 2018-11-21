@@ -16,7 +16,7 @@
 
 ## Documentation
 
-* [Gazebo answers](answers.gazebosim.org) 
+* [Gazebo answers](answers.gazebosim.org)
 * [Gazebo website](http://gazebosim.org)
 * [Gazebo cummunity](https://community.gazebosim.org/)
 
@@ -71,6 +71,13 @@ However there are book chapters which address Gazebo.
 
 ## Presentations
 
+### ROSCon 2018
+
+* Astrobee: ROS-based Flight Software for a Free-flying Robot in Microgravity [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_astrobee.pdf) [video](https://vimeo.com/292690863)
+* Gazebo renders the moon [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_gazeborendersmoon.pdf) [video](https://vimeo.com/292691510)
+* Unmanned Underwater Vehicle Simulator: Enabling the Simulation of Multi-Robot Underwater Missions with Gazebo [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_uuvsimulator.pdf) [video](https://vimeo.com/292691843)
+* Accelerated robot training through simulation with ROS and Gazebo [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_AcceleratedRobotTraining.pdf) [video](https://vimeo.com/293299416)
+
 ### ROSCon 2017
 
 * Vehicle and city simulation with Gazebo and ROS [slides](https://roscon.ros.org/2017/presentations/ROSCon%202017%20Vehicle%20and%20City%20Simulation.pdf) [video](https://vimeo.com/236477865)
@@ -85,11 +92,11 @@ However there are book chapters which address Gazebo.
 
 ### ROSCon 2015
 
-* Simple benchmarks for speed and accuracy of rigid body 
+* Simple benchmarks for speed and accuracy of rigid body
 dynamic simulators [slides](https://www.osrfoundation.org/wordpress2/wp-content/uploads/2015/12/multibody2015_scpeters.pdf)
 * Robot Model Development on Stereoids [slides](https://roscon.ros.org/2015/presentations/roscon2015_phobos_von_szadkowski.pdf)
 
 ### ROSCon 2014
 
-* Comparison of Rigid Body Dynamic Simulators 
+* Comparison of Rigid Body Dynamic Simulators
 for Robotic Simulation in Gazebo [slides](https://roscon.ros.org/2014/wp-content/uploads/2014/07/roscon2014_scpeters.pdf) [video](https://vimeo.com/107517366)
