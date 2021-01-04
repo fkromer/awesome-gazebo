@@ -1,0 +1,6 @@
+title: Awesome Gazebo
+logo: /gazebo_icon.svg
+description: Gazebo, the simulation framework for ROS1 and ROS2 is awesome!
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
