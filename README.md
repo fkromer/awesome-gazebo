@@ -9,6 +9,7 @@
 ## Contents
 
 - [Documentation](#documentation)
+- [Domain specific](#domain-specific)
 - [Model databases](#model-databases)
 - [Physic engines](#physic-engines)
 - [Books](#books)
@@ -19,6 +20,10 @@
 * [Gazebo answers](answers.gazebosim.org)
 * [Gazebo website](http://gazebosim.org)
 * [Gazebo community](https://community.gazebosim.org/)
+
+## Domain specific
+
+* [Plankton](https://github.com/Liquid-ai/Plankton) - Open source simulator for maritime robotics researchers.
 
 ## Model databases
 
